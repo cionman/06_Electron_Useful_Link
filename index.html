@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello Electron</title>
+    </head>
+    <body>
+        <div>
+            <img src="ASSETS/electron.png" alt="JavaScript" style="width:100%">
+        </div>
+        <h1>Hello Electron!</h1>
+        <script src="remote.js"></script>
+        <script src="js/jquery-3.2.1.min.js"></script>
+        <script>
+            //window.$ = window.jQuery = require('./js/jquery-3.2.1.min.js');
+            function changeColor(){
+                document.querySelector('h1').style.background='red';
+            }
+            $(function(){
+                alert('jQuery 작동');
+            });
+
+        </script>
+    </body>
+</html>
