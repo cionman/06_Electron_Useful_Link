@@ -11,7 +11,7 @@
 
 ## Electron 관련 유용한 링크
 
-- [Electron 공식 홈페이지 : https://electron.atom.io/](https://github.com/cionman/01_Introduce_Electron)</br>
+- [Electron 공식 홈페이지 : https://electron.atom.io/](https://electron.atom.io/)</br>
 - [Awesome Electron : https://github.com/sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron)</br>
 - [Electron Doc 한국어 번역 : https://www.gitbook.com/book/imfly/electron-docs-gitbook/details/ko-KR](https://www.gitbook.com/book/imfly/electron-docs-gitbook/details/ko-KR)</br>
 - [Electron Korea 페이스북 그룹 : https://www.facebook.com/groups/electronkorea/?fref=ts](https://www.facebook.com/groups/electronkorea/?fref=ts)
